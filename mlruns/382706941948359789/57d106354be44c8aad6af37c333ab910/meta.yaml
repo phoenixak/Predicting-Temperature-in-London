@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine%20Learning/Predicting%20Temperature%20in%20London/mlruns/382706941948359789/57d106354be44c8aad6af37c333ab910/artifacts
+end_time: 1725136393017
+entry_point_name: ''
+experiment_id: '382706941948359789'
+lifecycle_stage: active
+run_id: 57d106354be44c8aad6af37c333ab910
+run_name: DecisionTreeRegressor
+run_uuid: 57d106354be44c8aad6af37c333ab910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725136387462
+status: 3
+tags: []
+user_id: phoni
