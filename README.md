@@ -5,6 +5,7 @@ This repository contains the complete workflow for predicting weather patterns i
 ## Project Overview
 
 The objective of this project is to analyze historical weather data for London and develop predictive models to forecast future weather conditions, specifically the mean temperature. By leveraging historical data and applying various machine learning algorithms, we aim to provide insights that can assist in weather prediction and planning.
+
 Key Aspects:
 Data Preprocessing: Cleaning and transforming raw weather data for analysis.
 Exploratory Data Analysis (EDA): Visualizing and understanding weather trends.
@@ -12,6 +13,7 @@ Model Development: Training machine learning models to predict mean temperature.
 Model Evaluation: Assessing model performance using metrics like RMSE.
 Containerization: Docker is used to encapsulate the project environment.
 Experiment Tracking: MLFlow is integrated for tracking experiments and model versions.
+
 Features:
 Weather Analysis: Detailed analysis of weather features and trends.
 Predictive Modeling: Implementation of regression models to predict future mean temperatures.
